@@ -24,6 +24,16 @@ An interesting finding and a contradiction to the famous saying 'The more the me
 Moving on to the treemap, based on the sum of the number a song has been played and we see that major labels, as incicated that are a part of "The Big 3". The big 3 record labels are Sony BMG, Universal Music Group (UMG) and Warner Music Group (WMG) which again has it's smaller internal companies under their umbrella such as Atlantic Records, Interscope and Republic etc.) 
 
 Here we see that they make up majority of the chart and as these labels already have a well established reputation they also tend to dominate the Top 40 chart which their capabilites and resources such as marketing and PR as big driving forces. We see a high correlation with many big artists are also associated with major record labels as shown.
+
+## What about smaller / independent record labels?
+
+Another interesting find is although major labels dominate the market, is: 
+
+### 1
+An up and coming artist who has a collaboration with an already established artist tend to have a higher ranking as the popularity of the established artist is used as a driving force to bring attention around another emerging artist.
+
+### 2 
+A current trend is for emerging artist whom record labels believe in is either to list both record labels together or to launch a smaller label within a mjaor one.  An example of this is the song 'Truth Hurts' by the artist Lizzo. This song is released by both Atlantic Records (which is a part of Warner Music Group) and Nice Life Recordings which is a record label launched under Atlantic Records. 
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/Tree.png)
 
 ## Dashboards
