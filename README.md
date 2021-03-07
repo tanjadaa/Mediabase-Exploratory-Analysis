@@ -13,7 +13,9 @@ As the dataset consists of 5000+ entries, trimming it down to the top 200 to mak
 Thereafter, I discovered more of the popular artists tend to have more song entries in "Top 40" and is usually also associated with a major label which we will see on a later discovery.
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/most%20songs.png)
 
+An interesting finding and a contradiction to the famous daying 'The more the merrier' is that the more radio stations a song is on does not necessarily correlate with a higher ranking in terms of how many times a song is being played, hence increasing its overall popularity. 
 
+Examples we can see here is Post Malone "Goodbyes" f/ Young Thug which ranks #13 but has lesser stations than the 3 songs behind "Loose you to love me", "Graveyard" and "Liar". 
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/StationsOn.png)
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/Tree.png)
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/dashboard1.png)
