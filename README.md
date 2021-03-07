@@ -4,6 +4,11 @@ Mediabase is a music industry service that monitors radio station airplay in 180
 ## What is "Top 40" - The Music Industry 
 In the music industry, the "Yop 40" is the current, 40 most-popular songs in a particular genre. It is the best-selling or most frequently broadcast popular music. Record charts have traditionally consisted of a total of 40 songs. "Top 40" or "contemporary hit radio" is also a radio format which is what is referred to here from Mediabase.
 
+### Pre-Processing
+In this dataset each song is it's own unique entry as artist may have many entries as we'll see later on in the exploarory analysis. I came accross an instance where a handful of songs were named the same and therefore needed to clean this data to obtain the right entries for the analysis. This was done by calling the artist name in brackets after the song to distinguish between the artists and their songs.
+
+### Analysis
+
 Starting with the Rank of a song the current week 'This week' vs its 'Last week' which can indicate any major changes and we can cleary see that majority of the songs rank between 50-200. 
 
 As the dataset consists of 5000+ entries, trimming it down to the top 200 to make the visualization more feasable and understandable as the bigger trends occur from ranking below 100.
@@ -37,6 +42,13 @@ A current trend is for emerging artist whom record labels believe in is either t
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/Tree.png)
 
 ## Dashboards
+
+Lastsly I've created an interactive dashboard (open TWB file if interested! 🤗 ). Here all the worksheets previously mentioned are displayed and are intertwined with each other, meaning that filtering or clicking one sheet will display the correspoding info in the other worksheets.
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/dashboard1.png)
+
+Here I have filtered by the artist Post Malone and we can see the different rankings in the other worksheets, that he is signed with Republic which is one of the major record labels, he has multiple songs in Top 40 which are successful.
+
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/dashboard2.png)
+
+Another way of filtering and gaining information through the dashboard is to click and hover over one of the songs in the lower right sheet. Here we see the Artist Name and Title (Dua Lipa, "Don't Start Now") following the rank of #25 and on 174 radio stations. We see the other sheets follow the filter of this specific song.
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/dashboard3.png)
