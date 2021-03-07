@@ -1,4 +1,4 @@
-# Mediabase-Exploratory-Analysis
+# Mediabase: A Music Industry Exploratory Analysis
 Mediabase is a music industry service that monitors radio station airplay in 180 US and Canadian markets. By using Tableau I analyzed trends and insights from "Top 40" Playlist. 
 
 ## What is "Top 40" - The Music Industry 
