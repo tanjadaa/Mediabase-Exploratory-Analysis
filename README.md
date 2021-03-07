@@ -10,8 +10,10 @@ As the dataset consists of 5000+ entries, trimming it down to the top 200 to mak
 
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/This%20Week%20vs%20Last%20week.png)
 
-Thereafter, I discovered more of the popular artists tend to have more song entries in "Top 40"
+Thereafter, I discovered more of the popular artists tend to have more song entries in "Top 40" and is usually also associated with a major label which we will see on a later discovery.
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/most%20songs.png)
+
+
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/StationsOn.png)
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/Tree.png)
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/dashboard1.png)
