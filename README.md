@@ -52,3 +52,5 @@ Here I have filtered by the artist Post Malone and we can see the different rank
 
 Another way of filtering and gaining information through the dashboard is to click and hover over one of the songs in the lower right sheet. Here we see the Artist Name and Title (Dua Lipa, "Don't Start Now") following the rank of #25 and on 174 radio stations. We see the other sheets follow the filter of this specific song.
 ![image](https://github.com/tanjadaa/Mediabase-Exploratory-Analysis/blob/main/Visualizations/dashboard3.png)
+
+Hope you enjoyed and learned something as I did! 😊 🙌🏻
